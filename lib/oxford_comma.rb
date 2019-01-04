@@ -4,4 +4,5 @@ def oxford_comma(array)
   elsif array >= 2
     array.last.prepend "and "
     
+    
 end
